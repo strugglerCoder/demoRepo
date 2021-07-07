@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello world...!!!");
 		System.out.println("Hello");
 		System.out.println("GitHub");
+		System.out.println("Hello, this is demo");
 		
 	}
 
